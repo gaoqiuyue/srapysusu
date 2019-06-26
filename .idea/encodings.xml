@@ -2,5 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/appium_advance/log/suj.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/appiumtest/runlog.log" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
   </component>
 </project>

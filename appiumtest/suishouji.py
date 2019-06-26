@@ -7,7 +7,7 @@ from appium_advance.yaml.capability_yaml import driver
 import logging.config
 import logging
 #log配置中读取
-CON_LOG="log.cof"
+CON_LOG="../appium_advance/log/log.conf"
 logging.config.fileConfig(CON_LOG)
 logging=logging.getLogger()
 # #自定义log配置
