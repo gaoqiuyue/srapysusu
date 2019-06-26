@@ -1,0 +1,7 @@
+from selenium.webdriver.support.wait import WebDriverWait
+
+from appiumtest.capability import driver
+driver.find_element_by_android_uiautomator("new UiSelector.text('')")
+driver.find_element_by_android_uiautomator("new UiSelector.resourceId('')")
+##显式等待--等到某个元素出现
+WebDriverWait(driver,timeout=5,poll_frequency=0.5,ignored_exceptions=None).until(lambda x:x.find_element_by_id("elementId"))
