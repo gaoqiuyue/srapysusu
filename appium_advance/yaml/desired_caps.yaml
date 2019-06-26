@@ -1,0 +1,9 @@
+platformName: Android
+platformVersion: 5.1.1
+deviceName: 127.0.0.1:21503
+app: C:\Users\Henry\Desktop\python+appium\suishouji_12014000.apk
+noReset: False
+appPackage: com.mymoney
+appActivity: com.mymoney.biz.splash.SplashScreenActivity
+ip: 127.0.0.1
+port: 4723

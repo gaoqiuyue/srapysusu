@@ -1,0 +1,12 @@
+INFO:root:info
+WARNING:root:warninfo
+ERROR:root:errorinfo
+CRITICAL:root:criticalinfo
+INFO:root:info
+WARNING:root:warninfo
+ERROR:root:errorinfo
+CRITICAL:root:criticalinfo
+2019-06-26 16:14:22,376 logging_test.py [line:6] INFO info
+2019-06-26 16:14:22,376 logging_test.py [line:7] WARNING warninfo
+2019-06-26 16:14:22,376 logging_test.py [line:8] ERROR errorinfo
+2019-06-26 16:14:22,376 logging_test.py [line:9] CRITICAL criticalinfo

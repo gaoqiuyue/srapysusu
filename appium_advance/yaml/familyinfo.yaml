@@ -1,0 +1,10 @@
+name: Tom Smith
+age: 37
+spouse:
+   name: Jane Smith
+   age: 30
+children:
+ - name: Jimmy Smith
+   age: 12
+ - name: Jane Smith
+   age: 10
